@@ -1739,16 +1739,293 @@
                 <p>Hickory Handles.</p>
                 <p>THE HARDY PATENT PICK CO., LTD., SHEFFIELD, ENGLAND.</p>
             </div>
-            <!--daily weather report-->
+            <div type="section" element="weather">
+                <head>DAILY WEATHER REPORT</head>
+                <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
+                <div type="subsection">
+                    <table rend="frame" xml:id="deg-ta-dawr01">
+                        <head>ALEXANDRIA</head>
+                        <row>
+                            <cell cols="2">Direction of wind</cell>
+                            <cell>8</cell>
+                        </row>
+                        <row>
+                            <cell cols="2">Force of Anemometer</cell>
+                            <cell>15</cell>
+                        </row>
+                        <row>
+                            <cell cols="2">State of Sea</cell>
+                            <cell>Smooth</cell>
+                        </row>
+                        <row>
+                            <cell cols="2">Barometer Corrected</cell>
+                            <cell>78.5</cell>
+                        </row>
+                        <row>
+                            <cell cols="2">Evaporation</cell>
+                            <cell>3</cell>
+                        </row>
+                        <row>
+                            <cell cols="2">State of Clouds</cell>
+                            <cell>Gent</cell>
+                        </row>
+                        <row>
+                            <cell rows="4">During 24 hours ending 8 a.m.</cell>
+                            <cell>Max. Temp in the shade</cell>
+                            <cell><measure unit="dC">27.5</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Min. Temp in the shade</cell>
+                            <cell><measure unit="dC">18.8</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Humidity</cell>
+                            <cell><measure type="percentage">61</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Heat of the Sun</cell>
+                            <cell><measure type="percentage">17</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Rainfall</cell>
+                            <cell><measure unit="mm">—</measure></cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="subsection">
+                    <head>REMARKS.</head>
+                    <p>Good weather conditions still prevail. The morning
+                        opens nice and clear with a light southerly breeze
+                        and a rising Barometer.</p>
+                </div>
+            </div>
             <!--eastern telegraph co. ltd-->
-            <!--something to know - howie's sterilized cream-->
-            <!--calendar of coming events alexandria-->
-            <!--column 3 page 2-->
+            <!--howie's sterilized cream ad (not the same one as online)-->
+           <div type="item" element="comingEvents">
+                <head>Calendar of Coming Events</head>
+                <table cols="2" xml:id="deg-ta-coce01">
+                    <row role="label">
+                        <cell cols="2">ALEXANDRIA.</cell>
+                    </row>
+                    <row>
+                        <cell>May.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Mon. 27</cell>
+                        <cell> Windsor Hotel. Open-Air Concert
+                        by the Ludovic River orchestra 6 p.m. to midnight</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell> New Victoria Hotel. Orchestra Dambra
+                            on New Terrace 5 to 11 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>San Stefano Casino, Grand Symphony
+                        Concert. Every afternoon at 5 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Tour Eiffel. Variety Entertainment
+                        9.30</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>El Dorado Music Hall. Varieties
+                        9.30</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Urbanora Cinemate graphic entertainments.
+                        6.30 and 9.30 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell> Cinemaphon Aziz and Dores, old
+                            Ramleh Station 6.30 and 9.30 </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell> Pathe Cinematographic entertainment
+                        6.30 and 9.30 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Wed. 29</cell>
+                        <cell> Mustapha Range British Rifle Club
+                        practice. 2.30 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>June.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Sat. 1</cell>
+                        <cell>Free Popular University. 33 Rue
+                            Rosette Conference. 9.15 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Sun. 2</cell>
+                        <cell>San Stefano Casino. First Classical
+                        Concert of the Season</cell>
+                    </row>
+                    <row>
+                       <cell>Nouzha Gardens. Alexandria Police
+                       Band. 4 to 6.</cell>
+                    </row>
+                    <row>
+                        <cell> Tour Eiffel Matinee. 4.15</cell>
+                    </row>
+                    <row>
+                        <cell> El Dorado Matinee. 4.30</cell>
+                    </row>
+                    <row>
+                        <cell> Cinemaphon Aziz and Dores. Performances
+                        4, 5.30, 6.45</cell>
+                    </row>
+                    <row>
+                        <cell>Mon. 3</cell>
+                        <cell>The Lifonti Concert Rooms, Grand
+                        Evening Concert 9.30 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Thurs. 6</cell>
+                        <cell> Alexandria Sporting Club. Fourth
+                        Summer Meeting 3.30 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Sat. 8</cell>
+                        <cell> Alexandria Sporting Club. Fourth
+                        Summer Meeting 3.30 p.m.</cell>
+                    </row>
+                    <row role="label">
+                        <cell cols="2">CAIRO</cell>
+                    </row>
+                    <row>
+                        <cell>May.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Mon. 27</cell>
+                        <cell>Esbekieh Gardens Theatre. 9.30 </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theatre des Nouveautés Revue. 9.30</cell>
+                       </row>
+                    <row>
+                        <cell>Tues. 28</cell>
+                        <cell>Esbekieh Gardens. Military Band. 9 to 11.</cell>
+                    </row>
+                    <row>
+                        <cell>Fri. 31</cell>
+                        <cell>Esbekieh Gardens. Military Band. 9 to 11</cell>
+                    </row>
+                    <row>
+                        <cell>June.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Sun. 2</cell>
+                        <cell>Zoological Gardens. Ghizeh Boys’
+                            Band. Afternoon.</cell>
+                    </row>
+                </table>
+            </div>
             <!--pour soulager les bebes ad-->
             <!--carpets, t.a. spartali and co.-->
             <!--The Egyptian Gazzette subscriptions, advertisements, then it goes into the news-->
-            
-            <div type="page" n="3"> </div>
+            <div type="section">
+                <p> DEATH </p>
+                <p> RAMSAY - At Mill House, Mex, Egypt, on the
+                26th May, 1907. Minnie Anderson, aged nine 
+                months, infant daughter of Mr. and Mrs. A. C.
+                Ramsay</p>
+            </div>
+         <div type="page">
+              <p>MONDAY, MAY 27, I907.</p>
+                <p>ENGLAND AND GERMANY.</p>
+                <p>The business of a statesman, said Bismarck a good many years ago is to see things
+                    as they are. What is the statesman's business is also the business of every
+                    citizen in so far as he concerns himself with his country's affairs or with its
+                    relations with other countries. "We all want to see things as they are. Yet it
+                    is not always easy, What, for instance, (asks the “Morning Post”), is at present
+                    the idea and the feeling of the majority of Germans on the subject of this
+                    country and of British policy. If we were to be guided in our judgment by what
+                    we read in some of the German newspapers we might imagine that the Germans were
+                    all idled with apprehensions of some dire design supposed to be cherished in
+                    England against the welfare, the expansion, or even the peace of Germany As no
+                    Englishman is aware of any such design, indeed as all of us know that no such
+                    design exists, there would be a temptation to suppose the population of Germany
+                    is afflicted with some</p>
+                <p>mental disease or with one of those extraordinary delusions of which a once much
+                    read writer wrote a history. But those who have in late years travelled in
+                    Germany and mixed with the people in that country have discovered that among the
+                    educated class there,” the representative character of the newspapers is denied,
+                    and it is asserted that the articles unfriendly to England are not the
+                    expression of the popular feeling, or, at any rate, are not to bo taken too
+                    seriously. Between those newspapers which make it their Business to preach down
+                    England and those cultivated Germans who denounce these newspapers it is hard to
+                    get at the facts and see things as they are. The Germans outside of Germany, the
+                    travelled Germans, are not anti-British. They generally know something of
+                    England and the English. But they are not always listened to with respect by the
+                    Germans at home, at any rate not by all the newspaper writers. It is to be hoped
+                    that there will shortly be a change of fashion in Germany, and that the habit of
+                    discussing the imagined deep-laid plots of England will die out. Meantime it may
+                    help towards the clear view which is so desirable to consider some of the
+                    undoubted facts about the German Empire which are apt to he forgotten not only
+                    here but there.</p>
+                <p>Germany has for a whole generation been enjoying steady and increasing
+                    prosperity. None of the great States of Europe has so much to show in the way of
+                    material progress. Most of the large towns have been within the last twenty live
+                    years so transformed as to seem to have been almost entirely re-built. The
+                    standard of comfort, and even of luxury, attained is beyond the dreams of the
+                    last generation. Manufacture, trade, and commerce have flourished exceedingly.
+                    The whole country bears on its face the marks of accumulating wealth. For
+                    education of all sorts and for the advancement and diffusion ot knowledge,
+                    provision is made on an ampler scale than in any other country of Europe.</p>
+                <p>These great advances have followed close upon and seemed to be the consequences
+                    of the great struggles which led to the foundation of the new Empire as the form
+                    and symbol of national unity. Accordingly the national self consciousness has
+                    been exalted, and Germans today take a legitimate pride in their country. The
+                    Army is considered, probably rightly, to be the best organised and the best
+                    trained in the world, and the Navy has for a whole generation worked hard to
+                    make itself the Army's counterpart Germany’s influence makes itself felt far and
+                    wide, not merely in Europe. These are some of the marks of greatness in a
+                    nation. The nation that is so well situated in regard to its arrangements for
+                    defence, for education, and for trade, and of which the prosperity is so
+                    remarkable, can hardly have good reason to be excessively timid or anxious as to
+                    the future. Yet there are a number of writers in Germany who seem to spend their
+                    time looking abroad for possible troubles, and for several years past they have
+                    represented England as the most probable source of danger to Germany. If these
+                    writers had all been silent it is quite possible that traders and manufacturers
+                    in England and in Germany would have been conscious of a certain rivalry. Mr.
+                    Haldane, in a speech the other day, spoke of “ the legitimate antagonism of
+                    trade competition. ” But it is by no means clear that this antagonism need have
+                    a national or international aspect. Two spinners in Bolton are much keener
+                    rivals one of the other than either of them of any German competitor,and yet
+                    they can manage to live together in the same town without quarrelling. It would
+                    not be easy to find a British trader or manufacturer who would wish this country
+                    to pick a quarrel with Germany. Some of them would be glad to be helped against
+                    German competition by a protective tariff, but they would not on that account
+                    wish the two nations to enter into the extreme competition of a war Moreover,
+                    men of business best realise that the best customers are rich industrious
+                    nations, and that Germany and England with or without tariffs on one side or on
+                    both are necessarily bound to have very large commercial dealings with one
+                    another. Apart from manufacture and trade where the two nations are competitors,
+                    but not necessarily unfriendly competitors, what are the interests of the two
+                    nations which clash if We have never been able to discover them There is no
+                    rational cause for a quarrel between England and Germany, and f a quarrel arises
+                    it must be due to some wrong, malice, or misunderstanding. These things it is
+                    not always possible to prevent. They ought not to arise, and it is the duty of
+                    each nation and of each Government to avoid being the author of any such
+                    occasion of dispute, and of course also to be strong enough in case of a
+                    gratuitous quarrel thrust upon it to defend itself.</p>
+            </div> 
+            <div type="page" n="3"></div>
+            <!--ocr won't read 3rd page. The scan is stitched and in focus, but most everything is in blue. I went to library already,
+            but will go back tomorrow to try and fix again?--> 
             <div type="page" n="4"> </div>
             <div type="page" n="5"> </div>
             <div type="page" n="6"> </div>
